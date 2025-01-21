@@ -66,30 +66,35 @@ Make sure you have the following installed on your machine:
 
 Here are some screenshots showing the UI and quiz in action:
 
+# Quiz App - README
+
+## Screenshots
+
 1. **Home Screen**:
    - Displays the welcome message and the "Start Quiz" button.
 
-   ![Home Screen](assets/screenshots/home_screen.jpg)
+   <img src="assets/screenshots/home_screen.jpg" width="300"/>
 
 2. **Instructions Screen**:
    - Displays the instructions before starting the quiz.
 
-   ![Home Screen](assets/screenshots/instructions.jpg)
+   <img src="assets/screenshots/instructions.jpg" width="300"/>
 
 3. **Quiz Screen**:
    - The quiz page where users answer questions with a timer counting down.
 
-   ![Quiz Screen](assets/screenshots/quiz.jpg)
+   <img src="assets/screenshots/quiz.jpg" width="300"/>
 
 4. **Reading Material Screen**:
    - Displays the reading material and practice questions.
 
-   ![Home Screen](assets/screenshots/rm.jpg)
+   <img src="assets/screenshots/rm.jpg" width="300"/>
 
 5. **Result Screen**:
    - After completing the quiz, users can view their score, badges, and the review of their answers.
 
-   ![Result Screen](assets/screenshots/result.jpg)
+   <img src="assets/screenshots/result.jpg" width="300"/>
+
 
 ---
 
