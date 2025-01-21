@@ -40,7 +40,7 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/saicharan1342/quiz.git
    cd quizz
    ```
 
@@ -57,8 +57,8 @@ Make sure you have the following installed on your machine:
    ```
 
 4. **Platform-specific setup**:
-    - **Android**: Make sure Android Studio or your preferred IDE is set up with the required SDKs.
-    - **iOS**: Make sure Xcode is installed and set up on macOS for iOS builds.
+   - **Android**: Make sure Android Studio or your preferred IDE is set up with the required SDKs.
+   - **iOS**: Make sure Xcode is installed and set up on macOS for iOS builds.
 
 ---
 
@@ -67,19 +67,29 @@ Make sure you have the following installed on your machine:
 Here are some screenshots showing the UI and quiz in action:
 
 1. **Home Screen**:
-    - Displays the welcome message and the "Start Quiz" button.
+   - Displays the welcome message and the "Start Quiz" button.
 
-   ![Home Screen](assets/screenshots/home_screen.png)
+   ![Home Screen](assets/screenshots/home_screen.jpg)
 
-2. **Quiz Screen**:
-    - The quiz page where users answer questions with a timer counting down.
+2. **Instructions Screen**:
+   - Displays the instructions before starting the quiz.
 
-   ![Quiz Screen](assets/screenshots/quiz_screen.png)
+   ![Home Screen](assets/screenshots/instructions.jpg)
 
-3. **Result Screen**:
-    - After completing the quiz, users can view their score, badges, and the review of their answers.
+3. **Quiz Screen**:
+   - The quiz page where users answer questions with a timer counting down.
 
-   ![Result Screen](assets/screenshots/result_screen.png)
+   ![Quiz Screen](assets/screenshots/quiz.jpg)
+
+4. **Reading Material Screen**:
+   - Displays the reading material and practice questions.
+
+   ![Home Screen](assets/screenshots/rm.jpg)
+
+5. **Result Screen**:
+   - After completing the quiz, users can view their score, badges, and the review of their answers.
+
+   ![Result Screen](assets/screenshots/result.jpg)
 
 ---
 
@@ -87,7 +97,7 @@ Here are some screenshots showing the UI and quiz in action:
 
 Here is a short video walkthrough of the app, demonstrating the features:
 
-[Video Walkthrough Link](https://example.com/walkthrough-video) *(Replace with your actual video link)*
+[Video Walkthrough Link](https://drive.google.com/file/d/1CerGM5wpDdloXKl_SrVgBIXe-m6FNO89/view?usp=drivesdk)
 
 ---
 
